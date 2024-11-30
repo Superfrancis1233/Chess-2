@@ -1,0 +1,4 @@
+- Chess
+- Fog of war
+- Shop
+- board bigger?
