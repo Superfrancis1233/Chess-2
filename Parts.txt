@@ -2,4 +2,5 @@
 - Fog of war
 - Shop
 - board bigger?
+- Cover?
 -amongus
